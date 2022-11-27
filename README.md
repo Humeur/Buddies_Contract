@@ -23,6 +23,6 @@
 <h2 align="center">Buddies Contract</h2>
 <p align="center">
  A Solidity contract made for the Buddies Project, fully tested and ready for deployment on Ethereum blockchain.<br>
-  This generator was specifically made by me, <a href="https://www.linkedin.com/in/livio-dal-maso-43a318198/">Livio Dal Maso</a>.<br><br>
+  This contract was specifically made by me, <a href="https://www.linkedin.com/in/livio-dal-maso-43a318198/">Livio Dal Maso</a>.<br><br>
   More information are coming soon on this repository.
 </p>
